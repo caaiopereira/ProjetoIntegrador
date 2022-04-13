@@ -1,2 +1,3 @@
-# ProjetoIntegrador
-Cervejaria
+# ProjetoIntegrador - Cervejaria
+
+Sistema web com cadastro de dados dos clientes e produtos com opção de edição e exlusão dos itens. ultizado PHP, MySQL, Javascrit, BootStrap, PHP com Banco de Dados.
